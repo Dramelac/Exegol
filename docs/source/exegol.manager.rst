@@ -7,7 +7,7 @@ Submodules
 exegol.manager.ExegolController module
 --------------------------------------
 
-.. automodule:: exegol.manager.ExegolController
+.. autoclass:: exegol.manager.ExegolController
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ exegol.manager.ExegolController module
 exegol.manager.ExegolManager module
 -----------------------------------
 
-.. automodule:: exegol.manager.ExegolManager
+.. autoclass:: exegol.manager.ExegolManager
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ exegol.manager.ExegolManager module
 exegol.manager.UpdateManager module
 -----------------------------------
 
-.. automodule:: exegol.manager.UpdateManager
+.. autoclass:: exegol.manager.UpdateManager
    :members:
    :undoc-members:
    :show-inheritance:

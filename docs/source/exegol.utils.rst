@@ -7,7 +7,7 @@ Submodules
 exegol.utils.ConstantConfig module
 ----------------------------------
 
-.. automodule:: exegol.utils.ConstantConfig
+.. autoclass:: exegol.utils.ConstantConfig
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ exegol.utils.ConstantConfig module
 exegol.utils.DockerUtils module
 -------------------------------
 
-.. automodule:: exegol.utils.DockerUtils
+.. autoclass:: exegol.utils.DockerUtils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ exegol.utils.DockerUtils module
 exegol.utils.EnvInfo module
 ---------------------------
 
-.. automodule:: exegol.utils.EnvInfo
+.. autoclass:: exegol.utils.EnvInfo
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ exegol.utils.EnvInfo module
 exegol.utils.ExeLog module
 --------------------------
 
-.. automodule:: exegol.utils.ExeLog
+.. autoclass:: exegol.utils.ExeLog
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ exegol.utils.ExeLog module
 exegol.utils.FsUtils module
 ---------------------------
 
-.. automodule:: exegol.utils.FsUtils
+.. autoclass:: exegol.utils.FsUtils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ exegol.utils.FsUtils module
 exegol.utils.GitUtils module
 ----------------------------
 
-.. automodule:: exegol.utils.GitUtils
+.. autoclass:: exegol.utils.GitUtils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -55,7 +55,7 @@ exegol.utils.GitUtils module
 exegol.utils.GuiUtils module
 ----------------------------
 
-.. automodule:: exegol.utils.GuiUtils
+.. autoclass:: exegol.utils.GuiUtils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -63,7 +63,7 @@ exegol.utils.GuiUtils module
 exegol.utils.MetaSingleton module
 ---------------------------------
 
-.. automodule:: exegol.utils.MetaSingleton
+.. autoclass:: exegol.utils.MetaSingleton
    :members:
    :undoc-members:
    :show-inheritance:
@@ -71,7 +71,7 @@ exegol.utils.MetaSingleton module
 exegol.utils.UserConfig module
 ------------------------------
 
-.. automodule:: exegol.utils.UserConfig
+.. autoclass:: exegol.utils.UserConfig
    :members:
    :undoc-members:
    :show-inheritance:
@@ -79,7 +79,7 @@ exegol.utils.UserConfig module
 exegol.utils.argParse module
 ----------------------------
 
-.. automodule:: exegol.utils.argParse
+.. autoclass:: exegol.utils.argParse
    :members:
    :undoc-members:
    :show-inheritance:
