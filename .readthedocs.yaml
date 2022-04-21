@@ -9,8 +9,3 @@ version: 2
 submodules:
   exclude: all
   recursive: false
-
-build:
-  tools:
-    python: "3.9"
-
