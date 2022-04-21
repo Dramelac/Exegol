@@ -10,7 +10,7 @@ submodules:
   exclude: all
   recursive: false
 
-build
+build:
   tools:
     python: "3.9"
 
