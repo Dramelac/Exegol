@@ -7,9 +7,11 @@ Welcome to ExegolDev's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
+   modules
+   intro
 
 
 Indices and tables
@@ -18,4 +20,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`exegol`
+
+Test autodoc
+************
+
+- This is a ref to a class :class:`.ContainerConfig` lets see if it works plus bonus :meth:`exegol.model.ContainerConfig.ContainerConfig.setPrivileged` method specific.
+

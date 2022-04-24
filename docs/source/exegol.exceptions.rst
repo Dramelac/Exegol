@@ -7,7 +7,7 @@ Submodules
 exegol.exceptions.ExegolExceptions module
 -----------------------------------------
 
-.. autoclass:: exegol.exceptions.ExegolExceptions
+.. automodule:: exegol.exceptions.ExegolExceptions
    :members:
    :undoc-members:
    :show-inheritance:

@@ -15,7 +15,7 @@ Submodules
 exegol.console.cli.ParametersManager module
 -------------------------------------------
 
-.. autoclass:: exegol.console.cli.ParametersManager
+.. automodule:: exegol.console.cli.ParametersManager
    :members:
    :undoc-members:
    :show-inheritance:

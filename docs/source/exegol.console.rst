@@ -23,7 +23,7 @@ exegol.console.ConsoleFormat module
 exegol.console.ExegolProgress module
 ------------------------------------
 
-.. autoclass:: exegol.console.ExegolProgress
+.. automodule:: exegol.console.ExegolProgress
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ exegol.console.ExegolPrompt module
 exegol.console.LayerTextColumn module
 -------------------------------------
 
-.. autoclass:: exegol.console.LayerTextColumn
+.. automodule:: exegol.console.LayerTextColumn
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ exegol.console.LayerTextColumn module
 exegol.console.TUI module
 -------------------------
 
-.. autoclass:: exegol.console.TUI
+.. automodule:: exegol.console.TUI
    :members:
    :undoc-members:
    :show-inheritance:

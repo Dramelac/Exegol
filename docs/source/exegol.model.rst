@@ -7,7 +7,7 @@ Submodules
 exegol.model.ContainerConfig module
 -----------------------------------
 
-.. autoclass:: exegol.model.ContainerConfig
+.. automodule:: exegol.model.ContainerConfig
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ exegol.model.ContainerConfig module
 exegol.model.ExegolContainer module
 -----------------------------------
 
-.. autoclass:: exegol.model.ExegolContainer
+.. automodule:: exegol.model.ExegolContainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ exegol.model.ExegolContainer module
 exegol.model.ExegolContainerTemplate module
 -------------------------------------------
 
-.. autoclass:: exegol.model.ExegolContainerTemplate
+.. automodule:: exegol.model.ExegolContainerTemplate
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ exegol.model.ExegolContainerTemplate module
 exegol.model.ExegolImage module
 -------------------------------
 
-.. autoclass:: exegol.model.ExegolImage
+.. automodule:: exegol.model.ExegolImage
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ exegol.model.ExegolImage module
 exegol.model.ExegolModules module
 ---------------------------------
 
-.. autoclass:: exegol.model.ExegolModules
+.. automodule:: exegol.model.ExegolModules
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ exegol.model.ExegolModules module
 exegol.model.SelectableInterface module
 ---------------------------------------
 
-.. autoclass:: exegol.model.SelectableInterface
+.. automodule:: exegol.model.SelectableInterface
    :members:
    :undoc-members:
    :show-inheritance:

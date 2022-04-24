@@ -7,7 +7,7 @@ Submodules
 exegol.console.cli.actions.Command module
 -----------------------------------------
 
-.. autoclass:: exegol.console.cli.actions.Command
+.. automodule:: exegol.console.cli.actions.Command
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ exegol.console.cli.actions.Command module
 exegol.console.cli.actions.ExegolParameters module
 --------------------------------------------------
 
-.. autoclass:: exegol.console.cli.actions.ExegolParameters
+.. automodule:: exegol.console.cli.actions.ExegolParameters
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ exegol.console.cli.actions.ExegolParameters module
 exegol.console.cli.actions.GenericParameters module
 ---------------------------------------------------
 
-.. autoclass:: exegol.console.cli.actions.GenericParameters
+.. automodule:: exegol.console.cli.actions.GenericParameters
    :members:
    :undoc-members:
    :show-inheritance:
